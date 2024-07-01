@@ -1,7 +1,7 @@
 
 ## What is mockai?
 
-Mockai is a toolkit for mocking openapi contracts. Often developers have to deal with frontend and backend integration through api calls, as you may know, this is time very wasting time during development life cycle since most of the times front end developers have to maintain response mocks somewhere (usually in code base). 
+Mockai is a toolkit for mocking openapi contracts. Often developers have to deal with frontend and backend integration through api calls, as you may know, this is wasting time during development life cycle since most of the times front end developers have to maintain response mocks somewhere (usually in code base). 
 
 Mockai help developers to speed up this process by providing a dynamic response generation using artificial intelligence and openapi specification. 
 
